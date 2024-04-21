@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-itvdn-modal-window/static/css/main.e6c13ad2.css",
-    "main.js": "/react-itvdn-modal-window/static/js/main.6952859b.js",
+    "main.css": "/react-itvdn-modal-window/static/css/main.71089db1.css",
+    "main.js": "/react-itvdn-modal-window/static/js/main.92276d31.js",
     "index.html": "/react-itvdn-modal-window/index.html",
-    "main.e6c13ad2.css.map": "/react-itvdn-modal-window/static/css/main.e6c13ad2.css.map",
-    "main.6952859b.js.map": "/react-itvdn-modal-window/static/js/main.6952859b.js.map"
+    "main.71089db1.css.map": "/react-itvdn-modal-window/static/css/main.71089db1.css.map",
+    "main.92276d31.js.map": "/react-itvdn-modal-window/static/js/main.92276d31.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.6952859b.js"
+    "static/css/main.71089db1.css",
+    "static/js/main.92276d31.js"
   ]
 }
